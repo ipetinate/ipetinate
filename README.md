@@ -39,7 +39,7 @@
 
 ###
 
-<img href="https://github.com/ipetinate/ipetinate/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/ipetinate/ipetinate/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
