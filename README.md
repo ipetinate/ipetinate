@@ -1,36 +1,34 @@
-<h1 align="center">A little bit about myself...</h1>
+# 🖖
 
-###
+> PT-BR
 
-<h3 align="left">Hello, how are you? Welcome to my profile!</h3>
+## Sobre mim
 
-###
+Bem-vindo ao meu perfil, me chamo Isac, sou de São Paulo, Brasil, e atualmente trabalho na @alice-health, sou Engenheiro de Software, especialista em Frontend (e vez ou outra faço alguma tarefa de outras especialidades como backend ou infra), gosto muito de interfaces do usuário, procuro extrair o máximo de usabilidade, desempenho, sem perder a beleza (que vem dos Product Designers, porque não sou bom com isso haha, mas quando não tenho um, eu tento, sempre da para se inspirar em algum Dribble, Pinterest ou outras ideias pela web).
 
-<p align="left">Here you will find some repositories of personal projects, there are also projects that I participated in the organizations listed on the side (left, in the profile information).<br><br>I'm a Software Engineer focused on Web Development, having experience with JavaScript and TypeScript, and I've worked on projects with the main frameworks on the market, Angular, React and Vue, and I have solid experiences with these technologies.</p>
+Atualmente tenho trabalhado em um projeto open source chamado Clingon, que é uma ferramenta para desenvolvedores, ficaria grato se você desse uma olhada: https://clingon.dev
 
-###
+> EN
 
-<div align="center">
+
+## About me
+
+Welcome to my profile, my name is Isac, I'm from São Paulo, Brazil, and I currently work at @alice-health, I'm a Software Engineer, specialist in Frontend (and occasionally I do some task from other specialties such as backend or infra ), I really like user interfaces, I try to extract the maximum usability, performance, without losing beauty (which comes from Product Designers, because I'm not good with that haha, but when I don't have one, I try, you can always inspiration from some Dribble, Pinterest or other ideas around the web).
+
+Currently I have been working on an open source project called Clingon, which is a tool for developers, I would be grateful if you would take a look: https://clingon.dev
+
+---
+
+## Stats
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=ipetinate" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=ipetinate" height="130" alt="languages graph"  />
 </div>
 
-###
+## Social
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="40" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ipetinate/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
